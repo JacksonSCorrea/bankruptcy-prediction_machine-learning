@@ -9,7 +9,7 @@ O projeto consiste na seguintes etapas:
   * Análise exploratória dos dados, de forma manual, mais simples e com menos insights;
   * Pré-processamento dos dados com split em dados de treino e teste, seleção de variáveis para o modelo e padronização dos dados;
   * Modelagem de máquinas preditivas, com análise de desempenho de vários modelos testados, tunagem de hiperparâmetros e elaboração
-    de um modelo Classificador Ensamble por Votação (Stacking).
+    de um modelo Ensemble de Classificador de Votação.
 
 A principal métrica para avaliação do desempenho dos modelos é o Recall Score (revocação).
 Dessa forma, os melhores modelos serão aqueles com menores indicações de falsos negativos.
