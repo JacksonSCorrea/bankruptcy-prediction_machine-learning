@@ -1,0 +1,56 @@
+============================================================
+LogisticRegression()
+Recall fold 1 de 5: 41.2%
+Recall fold 2 de 5: 33.3%
+Recall fold 3 de 5: 37.5%
+Recall fold 4 de 5: 55.6%
+Recall fold 5 de 5: 42.9%
+Recall médio:42.0%
+============================================================
+DecisionTreeClassifier()
+Recall fold 1 de 5: 26.8%
+Recall fold 2 de 5: 28.6%
+Recall fold 3 de 5: 25.6%
+Recall fold 4 de 5: 34.5%
+Recall fold 5 de 5: 23.5%
+Recall médio:28.0%
+============================================================
+RandomForestClassifier()
+Recall fold 1 de 5: 50.0%
+Recall fold 2 de 5: 58.3%
+Recall fold 3 de 5: 100.0%
+Recall fold 4 de 5: 75.0%
+Recall fold 5 de 5: 40.0%
+Recall médio:66.0%
+============================================================
+GradientBoostingClassifier()
+Recall fold 1 de 5: 26.3%
+Recall fold 2 de 5: 40.0%
+Recall fold 3 de 5: 57.9%
+Recall fold 4 de 5: 75.0%
+Recall fold 5 de 5: 21.4%
+Recall médio:46.0%
+============================================================
+KNeighborsClassifier()
+Recall fold 1 de 5: 33.3%
+Recall fold 2 de 5: 44.4%
+Recall fold 3 de 5: 85.7%
+Recall fold 4 de 5: 85.7%
+Recall fold 5 de 5: 40.0%
+Recall médio:58.0%
+============================================================
+GaussianNB()
+Recall fold 1 de 5: 3.0%
+Recall fold 2 de 5: 3.2%
+Recall fold 3 de 5: 3.0%
+Recall fold 4 de 5: 3.4%
+Recall fold 5 de 5: 3.7%
+Recall médio:0.0%
+============================================================
+SVC()
+Recall fold 1 de 5: 0.0%
+Recall fold 2 de 5: 0.0%
+Recall fold 3 de 5: 0.0%
+Recall fold 4 de 5: 0.0%
+Recall fold 5 de 5: 100.0%
+Recall médio:20.0%
