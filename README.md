@@ -1,7 +1,7 @@
 Este é um projeto de Ciência de Dados que tem como objetivo desenvolver um modelo de máquina preditiva para classificar companhias
 com potencial de falência, de acordo com os Dados de falência do Taiwan Economic Journal para os anos de 1999-2009.
 Pensando na otimização do tempo, a etapa de análise exploratória dos dados foi automatizada com a utilização do pacote 'dataprep'.
-Sendo assim, o foco da Análise é mais generalista, com foco na distribuição das variáveis e suas correlações.
+Sendo assim, a Análise é mais generalista, com foco na distribuição das variáveis e suas correlações.
 Também foi utilizada a biblioteca'feature engine', com o objetivo de automatizar a tarefa de seleção de variáveis e
 tornar o modelo computacionalmente menos oneroso.
 
